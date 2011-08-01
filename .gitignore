@@ -1,0 +1,9 @@
+desktop.ini
+thumbs.db	
+*.tmp
+~*
+tmp/
+build/
+.dropbox.cache/
+.svn/
+.idea/
